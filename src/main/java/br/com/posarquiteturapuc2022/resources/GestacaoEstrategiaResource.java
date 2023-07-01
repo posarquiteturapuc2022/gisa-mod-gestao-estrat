@@ -1,3 +1,4 @@
+package br.com.posarquiteturapuc2022.resources;
 //package br.com.alvaro.payrollapi.resources;
 //
 //import org.springframework.http.ResponseEntity;
@@ -14,7 +15,7 @@
 //@RequiredArgsConstructor
 //@RestController
 //@RequestMapping("/api/payments")
-//public class PayrollResource {
+//public class GestacaoEstrategiaResource {
 //	
 //	private final PayrollService payrollService;
 //	
@@ -23,4 +24,12 @@
 //		return ResponseEntity.ok().body(payrollService.getPayment(workerId, payment));
 //	}
 //
+
+
+//III. Módulo de Gestão e Estratégia: tem como escopo prover a gestão 
+//estratégica de todos os projetos, produtos e serviços da empresa, 
+//com indicadores do andamento individual e global dos projetos e serviços, 
+//na forma de um cockpit. 
+//Para este módulo será utilizada uma ferramenta de gestão corporativa adquirida no mercado;
+
 //}
